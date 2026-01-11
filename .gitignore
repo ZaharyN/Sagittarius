@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+ipch/
+*.ipch
+*.sdf
+*.opensdf
+
+# Build output
+bin/
+bin-int/
+Debug/
+Release/
+
+# DLL / EXE
+*.dll
+*.exe
+*.lib
+*.pdb
+*.obj
+
+# CMake / external libs
+CMakeFiles/
+cmake-build-*/

@@ -1,0 +1,3 @@
+[submodule "Sagittarius/vendor/spdlog"]
+	path = Sagittarius/vendor/spdlog
+	url = https://github.com/gabime/spdlog
